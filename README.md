@@ -1,14 +1,18 @@
-Testing Project for **Inserati aici numele aplicatiei pe care o testati**
+Testing Project for
+
+** Automation Exercise** E-commerce Website
+
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application
 
-Application under test: Inserati aici numele aplicatiei pe care o testati
+Application under test: Automation Exercise e-commerce website
 
 Tools used: Jira, Zephyr Squad.
 
 Functional specifications:
-The below story (daca aveti mai multe scrieti stories) was created in Jira and describes the functional specifications of the "nume_modul" module, for which the final project is performed upon.
+The below stories were created in Jira and describes the functional specifications of the Registration, login, and password recovery module and Shopping cart items module, for which the final project is performed upon.
 
-inserati aici fie poza cu story-ul / story-urile daca aveti mai putine, dar daca aveti mai mult de doua recomand sa descarcati story-urile din jira si sa le incarcati ca fisier
+
+
 
 Here you can find the release that was created for this project:
 
