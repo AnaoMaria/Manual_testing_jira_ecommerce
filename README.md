@@ -11,6 +11,7 @@ Tools used: Jira, Zephyr Squad.
 Functional specifications:
 The below stories were created in Jira and describes the functional specifications of the Registration, login, and password recovery module and Shopping cart items module, for which the final project is performed upon.
 
+![5](https://github.com/user-attachments/assets/1104440b-bb85-4889-9493-326ed525d7f3)
 
 
 
