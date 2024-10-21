@@ -13,11 +13,16 @@ The below stories were created in Jira and describes the functional specificatio
 
 ![5](https://github.com/user-attachments/assets/1104440b-bb85-4889-9493-326ed525d7f3)
 
+![6](https://github.com/user-attachments/assets/5a273448-7d44-4583-820d-919ca384ee7e)
 
 
 Here you can find the release that was created for this project:
 
-(inserati aici o poza cu release-ul pe care l-ati creat in jira. Atentie, release-ul nu va contine si teste, ci doar epic-uri, story-uri, task-uri, subtaskuri si bug-uri)
+![1](https://github.com/user-attachments/assets/9226d550-ece0-4aa2-988d-923cc942633d)
+![2](https://github.com/user-attachments/assets/43b00757-9987-4ba9-9eb4-faa2f5f23399)
+![3](https://github.com/user-attachments/assets/c4ff198f-d0d9-46c8-b004-ac3129a780d6)
+![4](https://github.com/user-attachments/assets/d7f56754-9ed2-41e5-a6c0-50a9c4ecfa82)
+
 
 Testing process
 The test process was performed based on the standard test process as described below.
