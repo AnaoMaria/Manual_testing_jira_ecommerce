@@ -28,60 +28,105 @@ Testing process
 The test process was performed based on the standard test process as described below.
 
 1.1 Test planning
-The Test Plan is designed to describe all details of testing for all the modules from the JPetStore Demo application.
+The Test Plan is designed to describe all details of testing for all the modules from the Automation Exercise e-commerce website.
 
-The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here (inserati link catre documentul cu planul de testare)
+The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. 
 
 1.1.1. Roles asigned to the project and persons allocated
-(numele persoanelor pot sa fie fictive, doar sa treceti numele vostru ca si tester)
 
-Project manager
-Product owner
-Software developer
-QA Engineer
+Project manager : Dragos BRATU
+Product owner : Liviu FLORIU
+Software developer : Andrei IANCU
+QA Engineer : Oana Maria PREDA
+
 1.1.2 Entry criteria defined
-(enumerati aici toate criteriile de intrare pe care le-ati definit pentru proiectul vostru)
+
+Requirements: All functional and non-functional requirements must be clearly defined and approved.
+Tools: Jira and Zephyr Squad must be installed, configured, and accessible to the testing team.
+Resources: All required human resources, including testers and developers, must be available.
+Documentation: Test plan, test cases, and any necessary documentation must be completed and reviewed.
 
 1.1.3 Exit criteria defined
-(enumerati aici toate criteriile de iesire pe care le-ati definit pentru proiectul vostru)
+
+Test Case Execution: All planned test cases must be executed.
+Defect Resolution: All critical and high-priority defects must be resolved and retested.
+Coverage: Achieve at least 95% test coverage for in-scope functionalities.
+Acceptance Criteria: All acceptance criteria for the project must be met.
+Sign-Off: Obtain formal sign-off from stakeholders confirming that all exit criteria have been met.
 
 1.1.4 Test scope
 Tests in scope:
-(descrieti aici toate testele pe care intentionati sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)
+
+Functional Testing: Validate core functionalities such as user registration, login, product browsing, adding items to the cart, and checkout.
+Regression Testing: Ensure that new changes have not adversely affected existing functionality.
+Usability Testing: Assess the user experience of key features.
+Cross-Browser Testing: Verify the site works correctly on different web browsers (Chrome, Firefox, Safari, Edge).
+Responsive Testing: Ensure the website is responsive and functions correctly on different devices (desktop, tablet, mobile).
+Accessibility Testing: Ensure that the platform adheres to accessibility best practices (e.g., proper color contrast, compatibility with screen readers).
+Localization Testing: Test that the platform supports multiple languages
 
 Tests not in scope:
-(descrieti aici toate testele pe care NU intentionati sau nu puteti sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)
+
+Performance Testing: Load and stress testing will not be conducted.
+Security Testing: Detailed security and penetration testing will be excluded.
 
 1.1.5 Risks detected
 Project risks:
-(enumerati aici toate riscurile de proiect pe care le-ati identificat pentru proiectul vostru)
+
+Lipsa experientei echipei de testare.
+Timpul scurt de fixare a defectelor.
+Riscul de a dezvolta un produs software slab calitativ si neconform din cauza specificatiilor neactualizate.
 
 Product risks:
-(enumerati aici toate riscurile de produs pe care le-ati identificat pentru proiectul vostru)
+
+Functionalities noi care pot afecta performanta aplicatiei.
+Complexitatea unor module ale aplicatiei pentru care exista riscul ca utilizatorului sa ii fie dificil sa le parcurga.
 
 1.1.6 Evaluating entry criteria
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 
 1.2 Test Monitoring and Control
-(inserati aici motivul pentru care a fost facuta etapa de monitorizare si control si respectiv cum s-a facut aceasta etapa. Aici veti insera de asemenea si raportul de status (test status report) din zephyr - test metrics - primul din lista care sa reflecte activitatea si evolutia testarii. Recomand aici sa executati teste aproape in fiecare zi ca sa vada angajatorul implicarea voastra in testare)
+
+Monitoring and control ensure that testing progresses according to plan and any deviations are addressed promptly. This includes daily status meetings, progress tracking in Jira, and regular test status reports from Zephyr Squad.
+
+Test Status Report: A report from Zephyr reflecting test activities and progress is included below, showing metrics such as tests executed, passed, failed, and blocked.
+
+![Daily](https://github.com/user-attachments/assets/793fbe6d-7758-4427-9f60-0f9af0b5e8d5)
 
 1.3 Test Analysis
-The testing process will be executed based on the application requirements. (The requirements analysis has been done in order to implement the early testing test principle and the results can be found here - inserati linkul catre documentul de review. Parte asta specificata intre paranteze o puneti doar daca aveti cerinte si daca ati facut review).
+The testing process will be executed based on the application requirements. 
 
 The following test conditions were found:
 
-(aici puteti fie sa puneti o poza din jira cu titlurile tuturor testelor - din issues filtrare dupa type test sau sa scrieti cu bulinuta numele fiecarei conditii de testare pe care ati identificat-o)
+![1](https://github.com/user-attachments/assets/754f44a9-da73-4cb7-891f-c64688910390)
+
 
 1.4 Test Design
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here (inserati linkul catre fisierul cu testele, in format pdf, word sau csv)
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here :
+
+![Screenshot 2024-11-04 231026](https://github.com/user-attachments/assets/d5fe4d0d-bf67-4dd6-9c3d-db73f690cf8b)
+![7](https://github.com/user-attachments/assets/6519dd4f-e3c8-4bb6-9902-9fdf79fde83e)
+
 
 1.5 Test Implementation
-The following elements are needed to be ready before the test execution phase begins:
+The following elements need to be ready before the test execution phase begins:
 
-(inserati lista de elemente care sunt evaluate in etapa de implementare)
+Test environment setup.
+Test data preparation.
+Test scripts written and reviewed.
+Necessary permissions and access granted.
+Tools configured and validated.
 
 1.6. Test Execution
-Test cases are executed on the created test Cycle summary: (inserati aici numele cycle-ului pe care l-ati creat)
+Test cases are executed on the created test Cycle summaries:
+
+Manage items in shopping cart
+Register for an account, log in, and manage account features
+Bugs have been created based on the failed tests. The complete bug reports can be found HERE.
+
+The following is a summary of the bugs that have been found for:
+
+
 
 Bugs have been created based on the failed tests. The complete bug reports can be found here: (inserati aici fisierul cu bug-urile pe care le-ati identificat)
 
