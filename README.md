@@ -126,24 +126,33 @@ Bugs have been created based on the failed tests. The complete bug reports can b
 
 The following is a summary of the bugs that have been found for:
 
+![8](https://github.com/user-attachments/assets/b83c5e30-14a9-4326-8ca5-86ae241f3e7d)
 
-
-Bugs have been created based on the failed tests. The complete bug reports can be found here: (inserati aici fisierul cu bug-urile pe care le-ati identificat)
-
-The following is a summary of the bugs that have been found (inserati o lista cu titlurile bug-urilor identificate impreuna cu prioritatea si severitatea fiecaruia)
+Bugs have been created based on the failed tests. 
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
 1.7 Test Completion
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
-The traceability matrix was generated and can be found here: (inserati aici fie o poza cu matricea de trasabilitate din jira, fie linkul catre fiserul excel exportat din jira cu matricea de trasabilitate. Nu uitati sa faceti filtrare dupa type = story)
+The traceability matrix was generated and can be found here: 
+
+![9](https://github.com/user-attachments/assets/947e9204-95ff-4cab-9ec5-4bcda346702c)
+
+Regular updates to the Traceability matrix help maintain transparency and alignment between testing and project objectives throughout the test life cycle
+The matrix indicates the current status of each test case, helping to monitor the testing process and identify any gaps or missing coverage
+The matrix can be used for compliance purposes and to demonstrate that all requirements have been adequately tested and verified
 
 Test execution chart was generated and can be found below.
 
-(inserati aici raportul de executie generat din jira din sectiunea de dashboards)
+![6](https://github.com/user-attachments/assets/bc0be40e-da73-4fe1-94e3-f5779399d96f)
 
-The final report shows that a number (inserati numarul de teste) tests have failed of a total of (inserati numarul de teste)
 
-A number of (inserati numarul de bug-uri) total bugs were found, from which the priority is: (inserati numarul de bug-uri) are high and (inserati numarul de bug-uri) are medium.
+The final report shows that 4 number tests have failed of a total of 10.
 
-(inserati aici o concluzie generala a testarii care sa cuprinda cate teste au fost create si executate, ce procentaj aproximativ din cerintele in scop au fost acoperite, daca exista vreo functionalitate pe care nu ai apucat sa o testezi, daca bug-urile gasite impacteaza lansarea produsului in productie sau se pot fixa si ulterior, daca ai identificat riscuri de produs care trebuie mitigate, daca e vreo reecomandare pe care vrei sa o faci pentru lansare, daca sunt ceva lessons learned de care trebuie sa se tina cont la proiectele viitoare etc.)
+A number of 4 total bugs were found, from which the priority is: 2 are high and 2 are medium.
+
+The testing revealed significant gaps in both functionality and user experience, particularly in user registration, login, and cart management.
+
+The identified bugs, especially those related to security and usability, greatly impact the final user experience, causing inconvenience and potential security risks.
+
+Immediate attention to high-severity issues is essential to ensure a smooth and secure shopping journey for users on the "Automation Exercise" e-commerce website.
