@@ -84,7 +84,7 @@ Riscul de a dezvolta un produs software slab calitativ si neconform din cauza sp
 
 Product risks:
 
-Functionalities noi care pot afecta performanta aplicatiei.
+Functionalitati noi care pot afecta performanta aplicatiei.
 Complexitatea unor module ale aplicatiei pentru care exista riscul ca utilizatorului sa ii fie dificil sa le parcurga.
 
 1.1.6 Evaluating entry criteria
