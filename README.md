@@ -148,10 +148,9 @@ The matrix can be used for compliance purposes and to demonstrate that all requi
 
 Test execution chart was generated and can be found below.
 
-![6](https://github.com/user-attachments/assets/bc0be40e-da73-4fe1-94e3-f5779399d96f)
+![23](https://github.com/user-attachments/assets/1f2960cc-43e5-4fd9-93cf-ac18a17085ec)
 
-
-The final report shows that 4 number tests have failed of a total of 10.
+The final report shows that 3 tests have failed of a total of 10.
 
 A number of 4 total bugs were found, from which the priority is: 2 are high and 2 are medium.
 
