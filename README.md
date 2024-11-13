@@ -98,8 +98,7 @@ The testing process will be executed based on the application requirements.
 
 The following test conditions were found:
 
-![1](https://github.com/user-attachments/assets/754f44a9-da73-4cb7-891f-c64688910390)
-
+![14](https://github.com/user-attachments/assets/524de5bc-2dfa-46bc-a6fd-99ceddc1e5d8)
 
 1.4 Test Design
 Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here :
