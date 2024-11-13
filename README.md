@@ -19,10 +19,14 @@ The below stories were created in Jira and describes the functional specificatio
 
 Here you can find the release that was created for this project:
 
-![1](https://github.com/user-attachments/assets/9226d550-ece0-4aa2-988d-923cc942633d)
-![2](https://github.com/user-attachments/assets/43b00757-9987-4ba9-9eb4-faa2f5f23399)
-![3](https://github.com/user-attachments/assets/c4ff198f-d0d9-46c8-b004-ac3129a780d6)
-![4](https://github.com/user-attachments/assets/d7f56754-9ed2-41e5-a6c0-50a9c4ecfa82)
+![16](https://github.com/user-attachments/assets/71e8b861-413c-4422-9ef2-c85335c377e7)
+![17](https://github.com/user-attachments/assets/b746a914-0a23-454e-882c-989ffc3f75d8)
+![18](https://github.com/user-attachments/assets/90f94714-f7c8-486c-a55d-8d56be785033)
+![19](https://github.com/user-attachments/assets/2ca50c7d-48f2-43c7-a10e-f99bfd20d533)
+![20](https://github.com/user-attachments/assets/a22a96ea-8631-4404-b8d0-35c25f43d9b3)
+
+
+
 
 
 Testing process
