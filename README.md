@@ -130,7 +130,7 @@ Bugs have been created based on the failed tests. The complete bug reports can b
 
 The following is a summary of the bugs that have been found for:
 
-![8](https://github.com/user-attachments/assets/b83c5e30-14a9-4326-8ca5-86ae241f3e7d)
+![21](https://github.com/user-attachments/assets/448197fc-3255-4f17-855c-bb6f94e24d48)
 
 Bugs have been created based on the failed tests. 
 
