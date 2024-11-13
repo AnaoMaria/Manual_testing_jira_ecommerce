@@ -140,7 +140,7 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 The traceability matrix was generated and can be found here: 
 
-![9](https://github.com/user-attachments/assets/947e9204-95ff-4cab-9ec5-4bcda346702c)
+![22](https://github.com/user-attachments/assets/d30ce57d-9a48-4abc-a5c2-1b72bb60bb81)
 
 Regular updates to the Traceability matrix help maintain transparency and alignment between testing and project objectives throughout the test life cycle
 The matrix indicates the current status of each test case, helping to monitor the testing process and identify any gaps or missing coverage
