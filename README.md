@@ -13,7 +13,8 @@ The below stories were created in Jira and describes the functional specificatio
 
 ![5](https://github.com/user-attachments/assets/1104440b-bb85-4889-9493-326ed525d7f3)
 
-![6](https://github.com/user-attachments/assets/5a273448-7d44-4583-820d-919ca384ee7e)
+![15](https://github.com/user-attachments/assets/480ddce1-022e-49af-96a8-0010d4b2ea1a)
+
 
 
 Here you can find the release that was created for this project:
