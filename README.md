@@ -97,36 +97,29 @@ The following test conditions were found:
 ![32](https://github.com/user-attachments/assets/bec62334-9278-4364-8558-7bf34ab6b092)
 
 ### 1.4 Test Design
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here :
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed [here](https://github.com/AnaoMaria/Repo1/blob/main/ZFJ-Cycles-11-15-2024.csv)
 
-
-
-
-1.5 Test Implementation
+### 1.5 Test Implementation
 The following elements need to be ready before the test execution phase begins:
 
-Test environment setup.
-Test data preparation.
-Test scripts written and reviewed.
-Necessary permissions and access granted.
-Tools configured and validated.
+- Test environment setup.
+- Test data preparation.
+- Test scripts written and reviewed.
+- Necessary permissions and access granted.
+- Tools configured and validated.
 
-1.6. Test Execution
-Test cases are executed on the created test Cycle summaries:
+### 1.6. Test Execution
+Test cases are executed on the created test Cycle summaries: De introdus nume test cycle
 
-Manage items in shopping cart
-Register for an account, log in, and manage account features
 Bugs have been created based on the failed tests. The complete bug reports can be found HERE.
 
 The following is a summary of the bugs that have been found for:
 
-![21](https://github.com/user-attachments/assets/448197fc-3255-4f17-855c-bb6f94e24d48)
-
-Bugs have been created based on the failed tests. 
+La fel ca la test cases! ![21](https://github.com/user-attachments/assets/448197fc-3255-4f17-855c-bb6f94e24d48)
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
-1.7 Test Completion
+## 1.7 Test Completion
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 The traceability matrix was generated and can be found here: 
 
