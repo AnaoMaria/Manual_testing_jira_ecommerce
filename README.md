@@ -109,7 +109,7 @@ The following elements need to be ready before the test execution phase begins:
 - Tools configured and validated.
 
 ### 1.6. Test Execution
-Test cases are executed on the created test Cycle summaries: De introdus nume test cycle
+Test cases are executed on the created test Cycle summaries Automation Exercise V1.
 
 Bugs have been created based on the failed tests. The complete bug reports can be found HERE.
 
