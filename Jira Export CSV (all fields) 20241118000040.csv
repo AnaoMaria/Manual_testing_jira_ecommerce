@@ -1,0 +1,50 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Reporter Id,Creator Id,Created,Updated,Last Viewed,Resolved,Affects versions,Fix versions,Due date,Votes,Description,Environment,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Inward issue link (Relates),Parent,Parent summary,Status Category
+Verification Email Not Received After Registration,TMTA20PO-45,20312,Bug,Backlog,TMTA20PO,TMTA20_OanaPreda,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,9/1/2024 0:44,9/1/2024 0:44,11/18/2024 0:00,,Automation Exercise V1,Automation Exercise V1,,0,"Description: After completing the registration process on the Automation Exercise website, users are not receiving the verification email in their inbox. The verification email, which contains a link to activate the user's account, is not appearing in the inbox, spam, or junk folders.","Website/Application: URL: https://automationexercise.com
+
+Registered Email Address
+
+Browser Name: Mozilla Firefox 
+
+OS Name: Windows 10",712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,TMTA20PO-41,20209,"As a user of the ""Automation exercise"" e-commerce website, i want to have a smooth registration and shopping cart experience",To Do
+Form Submission Allows Passwords That Do Not Meet Criteria on Automation Exercise Website,TMTA20PO-40,20307,Bug,Backlog,TMTA20PO,TMTA20_OanaPreda,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,9/1/2024 0:00,9/1/2024 1:20,11/18/2024 0:00,,Automation Exercise V1,Automation Exercise V1,,0,"When a user enters a password that does not meet the specified criteria (such as minimum length, inclusion of special characters, or a mix of upper and lower case letters) on the registration or password change form, the system fails to validate the password properly. Instead of preventing form submission and displaying an error message, the system allows the form to be submitted. This issue could lead to the acceptance of weak passwords, which compromises account security and increases the risk of unauthorized access.","OS: Windows 10
+Browser: Google Chrome v116.0
+Device: Desktop
+URL: https://automationexercise.com",712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,TMTA20PO-24,20209,"As a user of the ""Automation exercise"" e-commerce website, i want to have a smooth registration and shopping cart experience",To Do
+Form submission allows entry of invalid email format,TMTA20PO-39,20306,Bug,Backlog,TMTA20PO,TMTA20_OanaPreda,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,8/31/2024 23:56,9/1/2024 1:06,11/13/2024 23:28,,Automation Exercise V1,Automation Exercise V1,,0,"When a user enters an invalid email format (e.g., ""user@domain"" or ""user.com"") into the email input field on the registration or login form and attempts to submit the form, the system fails to validate the email format properly. Instead of displaying an error message and preventing submission, the form allows the submission to proceed. This bug could result in users registering or attempting to log in with incorrect email addresses, leading to issues like not receiving verification or password recovery emails.","OS: Windows 10
+Browser: Google Chrome v116.0
+Device: Desktop
+URL: https://automationexercise.com",712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,TMTA20PO-24,20209,"As a user of the ""Automation exercise"" e-commerce website, i want to have a smooth registration and shopping cart experience",To Do
+A user can't increase or decrease the quantity of an item in the shopping cart.,TMTA20PO-34,20266,Bug,Backlog,TMTA20PO,TMTA20_OanaPreda,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,8/31/2024 1:13,8/31/2024 1:14,11/13/2024 23:27,,,,,0,"Preconditions:
+
+The user is logged in to their account.
+At least one item is already present in the shopping cart.
+
+Test Steps:
+
+1. Navigate to the Shopping Cart:
+
+2. Click on the shopping cart icon or link to view the cart.
+Locate the Item:
+
+2. Find the item for which you want to increase the quantity.
+Increase Quantity:
+
+3. Locate the quantity adjustment control (usually a ""+"" button or an input field) next to the item.
+    Click the ""+"" button or increase the quantity in the input field by entering a higher number.
+Update Cart:
+
+4. If necessary, click an ""Update Cart"" button to apply the changes.
+Verify Quantity Update:
+
+5. Check that the item’s quantity in the cart has been increased as expected.
+Ensure the cart total is updated correctly to reflect the new quantity.
+
+
+Actual result : A user isn't able to decrease the quantity of a shopping cart item, because the functionality it's blocked.
+
+Expected Result:
+
+The quantity of the item in the cart should increase as specified.
+The cart total should update to reflect the new quantity and corresponding price.
+
+",,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,TMTA20PO-33,20209,"As a user of the ""Automation exercise"" e-commerce website, i want to have a smooth registration and shopping cart experience",To Do
