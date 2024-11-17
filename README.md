@@ -115,7 +115,7 @@ Bugs have been created based on the failed tests. The complete bug reports can b
 
 The following is a summary of the bugs that have been found for:
 
-La fel ca la test cases! ![21](https://github.com/user-attachments/assets/448197fc-3255-4f17-855c-bb6f94e24d48)
+(https://github.com/AnaoMaria/Repo1/blob/main/Jira%20Export%20CSV%20(all%20fields)%2020241118000040.csv)
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
