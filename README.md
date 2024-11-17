@@ -111,7 +111,7 @@ The following elements need to be ready before the test execution phase begins:
 ### 1.6. Test Execution
 Test cases are executed on the created test Cycle summaries Automation Exercise V1.
 
-Bugs have been created based on the failed tests. The complete bug reports can be found [here] (https://github.com/AnaoMaria/Repo1/blob/main/Jira%20Export%20CSV%20(all%20fields)%2020241118000040.csv)
+Bugs have been created based on the failed tests. The complete bug reports can be found [here](https://github.com/AnaoMaria/Repo1/blob/main/Jira%20Export%20CSV%20(all%20fields)%2020241118000040.csv).
 
 The following is a summary of the bugs that have been found for Automation Exercise V1.
 
