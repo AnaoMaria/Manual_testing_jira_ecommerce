@@ -115,6 +115,8 @@ Bugs have been created based on the failed tests. The complete bug reports can b
 
 The following is a summary of the bugs that have been found for Automation Exercise V1.
 
+![Screenshot 2024-11-19 174040](https://github.com/user-attachments/assets/ad063750-f573-412c-b87f-83c9ebadf11d)
+
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
 ## 1.7 Test Completion
